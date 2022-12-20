@@ -1,0 +1,14 @@
+.container{
+    text-align: center;
+    background-color:rgba(19, 17, 17, 0.66);
+    width: 100%;
+    border:0;
+    padding:30px 0;
+}
+.admin-container{
+    padding: 10% 0;
+}
+label,input{
+    padding:5px;
+    margin:5px;
+}

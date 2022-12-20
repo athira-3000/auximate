@@ -1,0 +1,31 @@
+#body{
+    margin:0;
+    padding:0;
+    border:0;
+    background-image:linear-gradient(rgba(0, 0, 0, 0.664),rgba(0, 0, 0, 0.632)), url(../../public/final.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgb(48, 44, 44);
+}
+li{
+    display:inline;
+    margin:0 7px;
+}
+h1,a{
+    color:rgb(217, 220, 215);
+}
+p,h2,h3,label{
+    color: #fff;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color:rgb(237, 237, 126);
+}
+.flexContainer{
+    margin:0;
+    display:flex;
+    justify-content: space-between;
+    padding:10px;
+}
